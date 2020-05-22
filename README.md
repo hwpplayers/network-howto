@@ -25,4 +25,6 @@ Konular
 - IPv4 için Ağ Adresi Çevirisi (NAT)
 - Özgür Yazılımlar ile Uygulamaları
 
-[Kaynak](https://kamp.linux.org.tr/2018/kurslar/ag-yonetimi-1-duzey/)
+[Ağ Yönetimi 1. Düzey 9. Mustafa Akgül Özgür Yazılım Yaz Kampı Eğitimi](https://kamp.linux.org.tr/2018/kurslar/ag-yonetimi-1-duzey/) notlarından yararlanılarak README hazırlanmıştır. Ancak kalan içerik tamamen bize özgü olacaktır. Lisansı kod için AGPLv3 belgelendirme için GFDLv1.3 olarak belirlenmiştir.
+
+Katılmak için projeyi forklayıp pull request göndermenizi rica ederiz. İlginiz için teşekkürler, iyi çalışmalar, iyi eğlenceler !
