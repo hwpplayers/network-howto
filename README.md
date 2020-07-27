@@ -6,7 +6,7 @@
         A copy of the license is included in the section entitled "GNU
         Free Documentation License".
 
-İnternet'in olmadığı bir dünyada yaşayanlar dünya nüfusunda önemli bir yer kaplıyor ancak internet'i kullananların da internete olan duyarlılığını artırabilmek, daha verimli bir internet platformu nasıl üretilebilir amacıyla araştırma yapmak gerektiğini düşünmekteyiz.
+Günümüzde internete bağlanabilen kullanıcılardan çok daha fazlası internet'in getirdiklerinden yararlanamıyor. Amacımız interneti kullanabilen kesimlerin interneti nasıl kullandıklarını incelemek, interneti kullanamayanların ise internete nasıl erişebileceklerini araştırmaktır. İnternet teknolojisinin doğuşundan başlayarak tarihsel sıra içerisinde internet'in nasıl daha iyi bir ortam olabileceği konusu ele alınacaktır. Burada hem belgelendirme hem de geliştirme yapmayı hedeflemekteyiz.
 
 Bu depoda herhangi bir alıntı yapmadan, doğrudan kendi makalelerimizi ve kodlarımızı barındıracağız.
 
