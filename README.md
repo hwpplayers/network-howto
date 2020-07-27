@@ -6,7 +6,7 @@
         A copy of the license is included in the section entitled "GNU
         Free Documentation License".
 
-Günümüzde internete bağlanabilen kullanıcılardan çok daha fazlası internet'in getirdiklerinden yararlanamıyor. Amacımız interneti kullanabilen kesimlerin interneti nasıl kullandıklarını incelemek, interneti kullanamayanların ise internete nasıl erişebileceklerini araştırmaktır. İnternet teknolojisinin doğuşundan başlayarak tarihsel sıra içerisinde internet'in nasıl daha iyi bir ortam olabileceği konusu ele alınacaktır. Burada hem belgelendirme hem de geliştirme yapmayı hedeflemekteyiz.
+Günümüzde internete bağlanabilen kullanıcılardan çok daha fazlası internet'in getirdiklerinden yararlanamıyor. Amacımız interneti kullanabilen kesimlerin interneti nasıl kullandıklarını incelemek, interneti kullanamayanların ise internete nasıl erişebileceklerini araştırmaktır.İnternet teknolojisi doğuşundan itibaren kronolojik olarak incelenerek, daha iyi bir dijital ortam oluşturmanın yöntemleri tartışılacaktır.
 
 Bu depoda herhangi bir alıntı yapmadan, doğrudan kendi makalelerimizi ve kodlarımızı barındıracağız.
 
