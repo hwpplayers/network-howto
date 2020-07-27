@@ -1,30 +1,27 @@
-Günümüzde hemen hemen tüm yazılımlar bilgisayar ağları üzerinden haberleşerek çalışıyorlar. Hiç ağ bağlantısı olmayan, başka bir bilgisayarla haberleşmeyen yazılım sayısı giderek azalıyor. İster yazılım geliştirin, ister sistem yönetin, ister güvenlik alanında çalışın, ister ağ konusunda uzmanlaşmayı planlayın, temel ağ bilgisi vazgeçilmez durumda. Bu eğitimde, her bilişim profesyonelinin ihtiyacı olan düzeyde ağ bilgisi anlatılıyor.
+*       Copyright (C)  2020  Mert Gör(hwpplayer1), coderistan
+        Permission is granted to copy, distribute and/or modify this document
+        under the terms of the GNU Free Documentation License, Version 1.3
+        or any later version published by the Free Software Foundation;
+        with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+        A copy of the license is included in the section entitled "GNU
+        Free Documentation License".
 
-Konular
+İnternet'in olmadığı bir dünyada yaşayanlar dünya nüfusunda önemli bir yer kaplıyor ancak internet'i kullananların da internete olan duyarlılığını artırabilmek, daha verimli bir internet platformu nasıl üretilebilir amacıyla araştırma yapmak gerektiğini düşünmekteyiz.
 
-- Bilgisayar Ağlarını Keşfetme
-- Ağ Protokolleri ve İletişimleri
-- Ağ Erişimi
-- Ethernet Protokolü
-- Ağ Katmanı (IPv4 ve IPv6)
-- Taşıma Katmanı (TCP ve UDP Protokolleri)
-- IP Adresleme
-- IP Ağlarını Alt Ağlara Ayırma (Subnetting)
-- Uygulama Katmanı (HTTP, DNS, DHCP..vb)
-- Ağ Cihazları İşletim Sistemini Konfigure Etmek
-- Anahtarlanmış Ağlara Giriş
-- Temel Anahtarlama (Switching) Kavramları ve Yapılandırma
-- VLAN’ler
-- Yönlendirme (Routing) Kavramları
-- VLAN’ler Arası Yönlendirme
-- Statik Yönlendirme
-- Dinamik Yönlendirme
-- OSPF Protokolü
-- Erişim Kontrol Listeleri /(ACL)
-- DHCP Protokolü
-- IPv4 için Ağ Adresi Çevirisi (NAT)
-- Özgür Yazılımlar ile Uygulamaları
+Bu depoda herhangi bir alıntı yapmadan, doğrudan kendi makalelerimizi ve kodlarımızı barındıracağız.
 
-[Ağ Yönetimi 1. Düzey 9. Mustafa Akgül Özgür Yazılım Yaz Kampı Eğitimi](https://kamp.linux.org.tr/2018/kurslar/ag-yonetimi-1-duzey/) notlarından yararlanılarak README hazırlanmıştır. Ancak kalan içerik tamamen bize özgü olacaktır. Lisansı kod için AGPLv3 belgelendirme için GFDLv1.3 olarak belirlenmiştir.
+Katkıda bulunmak, hata bildirimi ve güvenlik açıklarını bildirmek, veya sadece konuşmak için aşağıdaki e-posta adreslerine yazabilirsiniz.
 
-Katılmak için projeyi forklayıp pull request göndermenizi rica ederiz. İlginiz için teşekkürler, iyi çalışmalar, iyi eğlenceler !
+* **core at masscollabs dot com**:
+  * **genel sorular için**:
+  hwpplayers ve procyberian Masscollabs Services tarafından desteklenmektedir. Bu konu hakkında buraya yazabilirsiniz. Katkıda bulunmak için de buraya yazmanızı rica ederiz. Ya da sadece konuşmak için de yazabilirsiniz.
+
+* **support at masscollabs dot com**:
+ * **teknik destek alabilmek için**:
+ Henüz bir Service Level Agreement yani hizmet anlaşması belirlenmiş değil. Ancak buraya yazdığınızda konuları incelememiz daha kolay olacak.
+
+* **security at masscollabs dot com**:
+  * **hata bildirimi ve güvenlik açıkları için**:
+  Hata bildirimleri ve güvenlik açıklarını buradan bildirmenizi rica ederiz. En kısa süre içerisinde size yanıt verilecektir. Yukarıda belirtildiği gibi bir Service Level Agreement belirlenmiş değil, bu sebeple yanıtlama süresi için bir garanti verilememektedir. Bununla birlikte özgür, açık, şeffaf ve işbirliğine dayalı bir topluluk olmayı amaçladığımızdan geri bildirim almayı **çok önemsiyoruz.**
+  
+
