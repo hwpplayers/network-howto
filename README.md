@@ -43,15 +43,3 @@ Katkıda bulunmak, hata bildirimi ve güvenlik açıklarını bildirmek, veya sa
   * **hata bildirimi ve güvenlik açıkları için**:
   Hata bildirimleri ve güvenlik açıklarını buradan bildirmenizi rica ederiz. En kısa süre içerisinde size yanıt verilecektir. Henüz bir Service Level Agreement belirlenmiş değil, bu sebeple yanıtlama süresi için bir garanti verilememektedir. Bununla birlikte özgür, açık, şeffaf ve işbirliğine dayalı bir topluluk olmayı amaçladığımızdan geri bildirim almayı **çok önemsiyoruz.**
 
-  hwpplayers ve procyberian Masscollabs Services tarafından desteklenmektedir. Bu konu hakkında buraya yazabilirsiniz. Katkıda bulunmak için de buraya yazmanızı rica ederiz. Ya da sadece konuşmak için de yazabilirsiniz.
-
-* **support at masscollabs dot com**:
- * **teknik destek alabilmek için**:
- Henüz bir Service Level Agreement yani hizmet anlaşması belirlenmiş değil. Ancak buraya yazdığınızda konuları incelememiz daha kolay olacak.
-
-* **security at masscollabs dot com**:
-  * **hata bildirimi ve güvenlik açıkları için**:
-  Hata bildirimleri ve güvenlik açıklarını buradan bildirmenizi rica ederiz. En kısa süre içerisinde size yanıt verilecektir. Yukarıda belirtildiği gibi bir Service Level Agreement belirlenmiş değil, bu sebeple yanıtlama süresi için bir garanti verilememektedir. Bununla birlikte özgür, açık, şeffaf ve işbirliğine dayalı bir topluluk olmayı amaçladığımızdan geri bildirim almayı **çok önemsiyoruz.**
-
-  
-
