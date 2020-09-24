@@ -32,14 +32,11 @@ Bu depoda herhangi bir alıntı yapmadan, doğrudan kendi makalelerimizi ve kodl
 Katkıda bulunmak, hata bildirimi ve güvenlik açıklarını bildirmek, veya sadece konuşmak için aşağıdaki e-posta adreslerine yazabilirsiniz.
 
 * **core at masscollabs dot com**:
-  * **genel sorular için**:
-  Bu deponun işleyişi ve tasarımıyla ilgili sorularınız içindir.
+   * **genel sorular için**: Bu deponun işleyişi ve tasarımıyla ilgili sorularınız içindir.
 
 * **support at masscollabs dot com**:
- * **teknik destek alabilmek için**:
- Özel olarak sormak istediğiniz yardım soruları içindir.
+   * **teknik destek alabilmek için**: Özel olarak sormak istediğiniz yardım soruları içindir.
 
 * **security at masscollabs dot com**:
-  * **hata bildirimi ve güvenlik açıkları için**:
-  Hata bildirimleri ve güvenlik açıklarını buradan bildirmenizi rica ederiz. En kısa süre içerisinde size yanıt verilecektir. Henüz bir Service Level Agreement belirlenmiş değil, bu sebeple yanıtlama süresi için bir garanti verilememektedir. Bununla birlikte özgür, açık, şeffaf ve işbirliğine dayalı bir topluluk olmayı amaçladığımızdan geri bildirim almayı **çok önemsiyoruz.**
+  * **hata bildirimi ve güvenlik açıkları için**: Hata bildirimleri ve güvenlik açıklarını buradan bildirmenizi rica ederiz. En kısa süre içerisinde size yanıt verilecektir. Henüz bir Service Level Agreement belirlenmiş değil, bu sebeple yanıtlama süresi için bir garanti verilememektedir. Bununla birlikte özgür, açık, şeffaf ve işbirliğine dayalı bir topluluk olmayı amaçladığımızdan geri bildirim almayı **çok önemsiyoruz.**
 
