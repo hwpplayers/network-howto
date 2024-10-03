@@ -6,6 +6,22 @@ Bu depoda herhangi bir alıntı yapmadan, doğrudan kendi makalelerimizi ve kodl
 
 Katkıda bulunmak için depolarımızı forklayıp(çatallayıp, kopyalayıp), kendi kopyanızda değişiklik yapıp, bize değişiklik isteği yani pull request gönderebilirsiniz.
 
+# Depolar
+
+* https://source.masscollabs.xyz/hwpplayers/network-howto
+ 
+* https://codeberg.org/hwpplayers/network-howto
+
+* https://git.disroot.org/hwpplayers/network-howto
+
+* https://git.vern.cc/hwpplayers/network-howto
+
+* https://git.sr.ht/~mertgor/network-howto
+
+* https://gitlab.com/masscollabs/hwpplayers/network-howto
+
+* https://github.com/hwpplayers/network-howto
+ 
 # Document License
 
 Copyright (C) 2020, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers, coderistan
