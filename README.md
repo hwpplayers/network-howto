@@ -7,8 +7,6 @@ Bu depoda herhangi bir alıntı yapmadan, doğrudan kendi makalelerimizi ve kodl
 Katkıda bulunmak için depolarımızı forklayıp(çatallayıp, kopyalayıp), kendi kopyanızda değişiklik yapıp, bize değişiklik isteği yani pull request gönderebilirsiniz.
 
 # Depolar
-
-* https://source.masscollabs.xyz/hwpplayers/network-howto
  
 * https://codeberg.org/hwpplayers/network-howto
 
