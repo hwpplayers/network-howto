@@ -24,6 +24,22 @@ Katkıda bulunmak için depolarımızı forklayıp(çatallayıp, kopyalayıp), k
 
 Copyright (C) 2020, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers, coderistan
 
+Copyright (C) 2024-2025 QB Networks
+
+Copyright (C) 2017-2025 Masscollabs Services
+
+Copyright (C) 2017-2025 Procyberian and contributors
+
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
+
+Copyright (C) 2017-2025 amassivus and contributors
+
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+
 Copyright (C) 2024-2025 hwpplayers and contributors
 
 Permission is granted to copy, distribute and/or modify this document
@@ -38,6 +54,22 @@ Free Documentation License".
 network how-to articles
 
 Copyright (C) 2020, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+
+Copyright (C) 2024-2025 QB Networks
+
+Copyright (C) 2017-2025 Masscollabs Services
+
+Copyright (C) 2017-2025 Procyberian and contributors
+
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
+
+Copyright (C) 2017-2025 amassivus and contributors
+
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
 
 Copyright (C) 2024-2025 hwpplayers and contributors
 
