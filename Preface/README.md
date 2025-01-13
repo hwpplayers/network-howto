@@ -10,7 +10,23 @@ Bu programı çalışırken genel olarak **UNIX** sistemlerin nasıl çalıştı
 
 Copyright (C)  2020 Mert Gör(hwpplayer1), coderistan
 
-Copyright (C)  2024-2025 hwpplayers and contributors
+Copyright (C) 2024-2025 QB Networks
+
+Copyright (C) 2017-2025 Masscollabs Services
+
+Copyright (C) 2017-2025 Procyberian and contributors
+
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
+
+Copyright (C) 2017-2025 amassivus and contributors
+
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+
+Copyright (C) 2024-2025 hwpplayers and contributors
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
